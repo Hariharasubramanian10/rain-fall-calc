@@ -76,6 +76,4 @@ MONTHLY AVERAGES
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-You can copy and paste this directly into your GitHub repository's README file!
